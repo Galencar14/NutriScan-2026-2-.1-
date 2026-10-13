@@ -115,7 +115,7 @@
         "opcoes": [
           {
             "texto": "Crua",
-            "vai": "castanha"
+            "vai": "castanha_crua"
           },
           {
             "texto": "Torrada com sal",
@@ -123,6 +123,15 @@
           }
         ]
       }
+    },
+    {
+      "codigo": null,
+      "chave": "castanha_crua",
+      "nome": "Castanha do Pará crua",
+      "grupo": 1,
+      "justificativa": "Castanha crua, sem sal.",
+      "troca": null,
+      "pergunta": null
     }
   ]
 }
